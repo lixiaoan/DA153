@@ -13,3 +13,6 @@ chmod 755 setup.sh
 
 ./setup.sh
 
+
+For update or any bug issue  kindly report at nullBase
+https://www.nullbase.org/forums/DirectadminRelease/
