@@ -2,7 +2,7 @@
 #########################################
 #Function:    update source
 #Usage:       bash update_source.sh
-#website:     www.mtimer.cn
+#website:     www.nullbase.org
 #Version:     2.5
 #########################################
 
