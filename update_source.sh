@@ -3,7 +3,7 @@
 #Function:    update source
 #Usage:       bash update_source.sh
 #website:     www.nullbase.org
-#Version:     3.0
+#Version:     1.01
 #########################################
 
 check_os_release()
